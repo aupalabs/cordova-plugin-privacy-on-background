@@ -1,0 +1,17 @@
+{
+  "name": "com.omm.privacyonbackground",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.omm.privacyonbackground",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "FIBONACCI TECHNOLOGIES SAPI DE CV",
+  "license": "ISC"
+}
